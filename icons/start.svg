@@ -14,7 +14,7 @@
    viewBox="0 0 20.15748 20.15748"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="start.svg">
   <defs
      id="defs4615">
@@ -43,14 +43,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="1443.1799"
-     inkscape:cy="473.28418"
+     inkscape:zoom="0.36607933"
+     inkscape:cx="962.94679"
+     inkscape:cy="1240.6363"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="982"
+     inkscape:window-height="978"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,7 +137,7 @@
            id="stop21" />
       </linearGradient>
       <path
-         style="fill:#132e43;fill-opacity:1"
+         style="fill:#442178;fill-opacity:1"
          d="M 253.23,449.573 C 327.166,440.072 362.775,359.318 331.363,306.956 320.222,288.385 302.264,277.931 283.919,266.98 239.43,240.424 180.721,217.346 180.446,160.017 180.133,94.585 243.136,70.592 273.643,62.809 253.873,61.007 233.491,62.22 213.085,66.85 108.62,90.551 43.148,194.451 66.85,298.916 c 20.822,91.772 103.538,153.44 194.157,151.004 -2.601,-0.066 -5.195,-0.178 -7.777,-0.347 z"
          id="path24"
          inkscape:connector-curvature="0" />
@@ -190,7 +190,7 @@
            id="stop39" />
       </linearGradient>
       <circle
-         style="fill:#132e43;fill-opacity:1"
+         style="fill:#442178;fill-opacity:1"
          cx="250.49001"
          cy="153.85001"
          r="51.330002"
